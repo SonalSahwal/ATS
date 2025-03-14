@@ -75,13 +75,6 @@ streamlit run app.py
 
 ---
 
-### **📸 Screenshots**  
-
-**📊 Resume Analysis Output**  
-![Resume Evaluator Screenshot](./images/sc.png)  
-
----
-
 ### **💡 How It Works?**  
 1️⃣ **Upload** your resume (PDF format)  
 2️⃣ **Paste** the job description  
