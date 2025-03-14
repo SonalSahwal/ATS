@@ -78,7 +78,7 @@ streamlit run app.py
 ### **📸 Screenshots**  
 
 **📊 Resume Analysis Output**  
-![Resume Evaluator Screenshot](https://via.placeholder.com/800x400?text=Your+App+Screenshot+Here)  
+![Resume Evaluator Screenshot](./images/sc.png)  
 
 ---
 
@@ -108,9 +108,8 @@ streamlit run app.py
 ---
 
 ### **📬 Contact & Contributions**  
-👨‍💻 **Author:** Your Name  
-📧 Email: your.email@example.com  
-🔗 GitHub: [@your-username](https://github.com/your-username)  
+👨‍💻 **Author:** Sonal Sahwal  
+🔗 GitHub: [@SonalSahwal](https://github.com/SonalSahwal/)  
 
 🤝 **Contributions are welcome!** Feel free to open **issues** or **pull requests**.  
 
